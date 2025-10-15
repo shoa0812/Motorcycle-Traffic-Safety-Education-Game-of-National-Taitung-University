@@ -9,7 +9,6 @@
 
 ## 內容物
 - `Assets/_Project/Scripts`：Runtime/Editor 核心腳本
-- `Assets/_Project/Scenes/Demo`：最小可運行示範
 - `Packages/`、`ProjectSettings/`：專案設定
 
 ## 安裝指引
