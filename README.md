@@ -12,7 +12,7 @@
 - `Packages/`、`ProjectSettings/`：專案設定
 
 ## 安裝指引
-## 還原專案（必做）
+## 還原專案
 1. 下載大資產包：  
    [Motorcycle Traffic Safety Education Game of National Taitung University.rar（Google Drive）](https://drive.google.com/uc?export=download&id=1-gBVfEMvmPY-UCy94kX8Jw1DKJONyNW6)
 2. 可直接解壓縮專案並開啟
