@@ -8,8 +8,9 @@
 - Unity 2022.3 LTS
 
 ## 內容物
-- `Assets/_Project/Scripts`：Runtime/Editor 核心腳本
+- `Assets`：Runtime/Editor 核心腳本
 - `Packages/`、`ProjectSettings/`：專案設定
+- ˋdogˋ:blender骨架生成邏輯
 
 ## 安裝指引
 1. 下載大資產包：  
